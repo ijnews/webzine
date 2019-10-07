@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>인제대신문 415호(웹진 2호)</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<center>
+
+<body>
+<img src="../인제대신문_415호(웹진 2호)_20191007_최종.jpg" alt="" width="720" height="2380" usemap="#Map"/>
+<map name="Map">
+	<!-- 제호-->
+  <area shape="rect" coords="121,76,586,176" href="http://www.ijnews.net/">
+    <!-- 헤드라인 -->
+<area shape="rect" coords="-2,259,729,580" href="http://www.ijnews.net/news/articleView.html?idxno=10152">
+	<!-- 기사1-->
+  <area shape="rect" coords="81,623,259,890" href="http://www.ijnews.net/news/articleView.html?idxno=10154">
+	<!-- 기사2-->
+  <area shape="rect" coords="275,622,457,891" href="http://www.ijnews.net/news/articleView.html?idxno=10155">
+	<!-- 기사3-->
+  <area shape="rect" coords="469,625,647,892" href="http://www.ijnews.net/news/articleView.html?idxno=10159">
+	<!-- 기사4-->
+  <area shape="rect" coords="77,936,258,1210" href="http://www.ijnews.net/news/articleView.html?idxno=10156">
+	<!-- 기사5-->
+  <area shape="rect" coords="272,936,455,1203" href="http://www.ijnews.net/news/articleView.html?idxno=10160">
+	<!-- 연재 -->
+  <area shape="rect" coords="467,935,649,1184" href="http://www.ijnews.net/news/articleView.html?idxno=10163">
+	<!-- 학생칼럼 -->
+  <area shape="rect" coords="81,1248,261,1513" href="http://www.ijnews.net/news/articleView.html?idxno=10164">
+	<!-- 교수칼럼 -->
+  <area shape="rect" coords="273,1249,454,1515" href="http://www.ijnews.net/news/articleView.html?idxno=10165">
+	<!-- 사설1 -->
+  <area shape="rect" coords="470,1287,646,1371" href="http://www.ijnews.net/news/articleView.html?idxno=10166">
+	<!-- 사설2 -->
+  <area shape="rect" coords="470,1380,646,1465" href="http://www.ijnews.net/news/articleView.html?idxno=10167">
+<!-- 홈페이지--><!-- 페이스북 --><!-- 유투브 --><!-- 지난 호 보기 -->
+  <area shape="rect" coords="4,2308,360,2380" href="#https://ijnews.github.io/webzine/001.html">
+	<!-- 수신 거부 바로가-->
+  <area shape="rect" coords="361,2310,718,2379" href="#https://forms.gle/JxKnr4ouEXNwYswF6">
+	<!-- 제보 배너-->
+  <area shape="rect" coords="51,1567,678,1731" href="#">
+	<!--인제문화상 배너-->
+  <area shape="rect" coords="49,1805,675,1978" href="https://www.inje.ac.kr/kor/Template/Bsub_page.asp?Ltype=5&Ltype2=0&Ltype3=0&Tname=S_News&Ldir=board/S_News&d1n=5&d2n=1&d3n=1&d4n=0&Lpage=Tboard_R&board_idx=17451 ">
+	<!-- 홈 바로가기 버튼-->
+  <area shape="circle" coords="431,2082,30" href="http://www.ijnews.net/">
+	<!-- 구독하기 버튼-->
+  <area shape="circle" coords="499,2083,29" href="https://forms.gle/naTtXQ428RiWy7zk8">
+	<!-- 유튜브 채널 바로가기 버튼-->
+  <area shape="circle" coords="571,2083,28" href="https://www.youtube.com/channel/UC92HkBbi_0m-YEZgDzoopAQ">
+	<!-- 페이스북 채널 바로가기 버튼-->
+  <area shape="circle" coords="643,2083,30" href="https://www.facebook.com/InjeMediaCenter/">
+	<!-- 하단 인제대 제호 링크-->
+  <area shape="rect" coords="53,2052,373,2115" href="http://www.ijnews.net/">
+</map>
+</body>
+</center>
+
+</html>
